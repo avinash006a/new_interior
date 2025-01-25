@@ -30,12 +30,12 @@ export default function Footer() {
                     <div className="col-md-3 col-sm-4 col-xs-12">
                         <h3>Instragram</h3>
                         <ul className="instragram">
-                            <li><a href="#"><img src="/asset/images/insta01.jpg" alt /></a></li>
-                            <li><a href="#"><img src="/asset/images/insta02.jpg" alt /></a></li>
-                            <li><a href="#"><img src="/asset/images/insta03.jpg" alt /></a></li>
-                            <li><a href="#"><img src="/asset/images/insta04.jpg" alt /></a></li>
-                            <li><a href="#"><img src="/asset/images/insta05.jpg" alt /></a></li>
-                            <li><a href="#"><img src="/asset/images/insta06.jpg" alt /></a></li>
+                            <li><a href="#"><img src="/asset/images/insta01.jpg" alt="" /></a></li>
+                            <li><a href="#"><img src="/asset/images/insta02.jpg" alt="" /></a></li>
+                            <li><a href="#"><img src="/asset/images/insta03.jpg" alt="" /></a></li>
+                            <li><a href="#"><img src="/asset/images/insta04.jpg" alt="" /></a></li>
+                            <li><a href="#"><img src="/asset/images/insta05.jpg" alt="" /></a></li>
+                            <li><a href="#"><img src="/asset/images/insta06.jpg" alt =""/></a></li>
                         </ul>
                     </div>
                 </div>
